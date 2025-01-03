@@ -1,9 +1,11 @@
-## Hello there 👋
+## <ins> Hello there </ins> 👋
 welcome to my ReadMe,
+my name is Ian McLaughlin and the purpose of the repository is to describe myself and give examples of soeme of the things I am working on.
+
 I am currently still trying to figure out the best configuration for this README, 
 so any comments on how to make it better would be very beneficial. Thank you!
 
-##About me? ⚡
+## <ins> About me </ins>? ⚡
 My name is Ian McLaughlin and I am currently a computer science student at the 
 University of Southern Maine. I am moving into my senior year and am very confused about
 my own direction. I intend to do the best for society and my family. I want to succeed
@@ -12,7 +14,7 @@ well wherever I am.
 I hope that Github can connect with me with other people, experiences, and things I don't know
 about yet. I hope to learn more and do better.
 
-##Projects 🌱
+## Projects 🌱
 I plan to work on some small projects to get me more comfortable coding again as I have had 
 
 <!--
