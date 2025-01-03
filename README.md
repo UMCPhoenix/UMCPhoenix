@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 👋
+## my name is Ian McLaughlin but most of my tags online are under the handle UMCPhoenix.
 
 <!--
 **UMCPhoenix/UMCPhoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
