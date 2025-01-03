@@ -27,13 +27,15 @@ about yet. Whether that connecting me with new friends or employers but also sim
 I plan to work on some small projects to get me more comfortable coding again as I have not consistencly done it. 
 Some of these projects maybe something small for myself use. Or they may be student objectives. 
 
-# Computer Projects
+### Computer Projects
 - **Yearly Reflection Journal**: A tool for recording and reflecting on yearly goals and achievements.
 
-# Other Projects
+### Other Projects
 - **End**: A comic and story I have been working on over the past two years. I would like to have it recorded on github as well!
 
 ## <ins> Skills </ins>
+List of programming skills
+- 
 
 ## <ins> Contact Information </ins>
 Feel free to reach out to me via the following platforms:
